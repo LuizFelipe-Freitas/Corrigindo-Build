@@ -1,5 +1,5 @@
 import unittest
-import requests 
+# Correção
 
 from app import calcular_desconto
 
